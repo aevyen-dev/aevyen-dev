@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">aevyen 发展</h1>
 
-<!--
-**aevyen-dev/aevyen-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software · Algorithms · Systems
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Building. Learning. Understanding.
+
+I’m focused on software development, algorithms, and computer systems.
+
+## Projects
+
+> Projects will appear here as they take shape.
+
+## Currently
+
+- Learning
+- Building
+- Experimenting
+
+---
+
+<p align="center">
+  <sub>aevyen / 发展</sub>
+</p>
