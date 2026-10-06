@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.jpg" width="100%">
+  <img src="./banner2.jpg" width="100%">
 </div>
 
 <br>
@@ -12,6 +12,24 @@
 
 <p align="center">
   🧠 Learning · 🛠️ Building · 🔬 Exploring
+</p>
+
+<p align="center">
+  <a href="#about-me">
+    <img src="https://img.shields.io/badge/01-ABOUT-111111?style=flat-square&labelColor=000000&color=111111">
+  </a>
+  &nbsp;
+  <a href="#currently">
+    <img src="https://img.shields.io/badge/02-CURRENTLY-111111?style=flat-square&labelColor=000000&color=111111">
+  </a>
+  &nbsp;
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/03-PROJECTS-111111?style=flat-square&labelColor=000000&color=111111">
+  </a>
+  &nbsp;
+  <a href="#tech">
+    <img src="https://img.shields.io/badge/04-TECH-111111?style=flat-square&labelColor=000000&color=111111">
+  </a>
 </p>
 
 ---
