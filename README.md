@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./shupnk.png" width="100%">
+  <img src="./341666ee-e8ca-4f80-a7de-223342c80d98.png" width="100%">
 </div>
 
 <br>
