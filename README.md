@@ -2,69 +2,61 @@
   <img src="./341666ee-e8ca-4f80-a7de-223342c80d98.png" width="100%">
 </div>
 
-<br>
+# aevyen 发展 — 零夜
 
-<h1 align="center">aevyen 发展</h1>
+**Software Engineering · Algorithms · Computer Science**
 
-<p align="center">
-  <b>Software · Algorithms · Systems</b>
-</p>
-
-<p align="center">
-  🧠 Learning · 🛠️ Building · 🔬 Exploring
-</p>
-
-<p align="center">
-  <a href="#about-me">
-    <img src="https://img.shields.io/badge/01-ABOUT-111111?style=flat-square&labelColor=000000&color=111111">
-  </a>
-  &nbsp;
-  <a href="#currently">
-    <img src="https://img.shields.io/badge/02-CURRENTLY-111111?style=flat-square&labelColor=000000&color=111111">
-  </a>
-  &nbsp;
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/03-PROJECTS-111111?style=flat-square&labelColor=000000&color=111111">
-  </a>
-  &nbsp;
-  <a href="#tech">
-    <img src="https://img.shields.io/badge/04-TECH-111111?style=flat-square&labelColor=000000&color=111111">
-  </a>
-</p>
+`LEARN` / `BUILD` / `UNDERSTAND` / `EVOLVE`
 
 ---
 
-## 👋 About me
+## 👋 About Me
 
-Hey! I'm **Aevyen**.
+Hey, I'm **Aevyen** — an aspiring software developer focused on understanding technology from the inside out.
 
-I'm learning how software works from the inside out — from writing code to understanding algorithms, systems, and the technology behind them.
+I'm building my foundation in programming, algorithms, and computer science, learning not just how to write code, but **why it works**.
 
-I like figuring out **how things work**, building my own projects, and gradually turning ideas into something real.
+I believe in learning through practice, building real projects, and understanding the fundamentals before chasing complexity.
 
-## 🧭 Currently
+> *Understand the system. Build with purpose. Keep evolving.*
 
-* 💻 Learning software development
-* 🧠 Studying algorithms & problem solving
-* ⚙️ Exploring computer systems
-* 🛠️ Building personal projects
-* 📚 Constantly learning something new
+## 🧭 Current Focus
+
+- 💻 **C++** — programming fundamentals and problem solving
+- 🌐 **Web Development** — HTML, CSS, and JavaScript
+- 🧠 **Algorithms & CS** — computational thinking and core concepts
+- ⚙️ **Computer Systems** — understanding how software interacts with hardware
+- 🛠️ **Project Building** — turning concepts into working applications
 
 ## 🚀 Projects
 
-Projects I'm currently building and experimenting with will appear here.
+**Algorithm Lab** — a personal project focused on presenting algorithms through an interactive visual experience.
 
-## 🧰 Tech
+More projects will appear here as I build, experiment, and improve.
 
-**Languages**
+## 🧰 Tech Stack
 
-`HTML` · `CSS` · `JavaScript` · `Python`
+**Currently Learning**
 
-**Interests**
+`C++` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
 
-`Algorithms` · `Systems` · `Web Development` · `Computer Science`
+**Exploring**
+
+`Algorithms` · `Computer Science` · `Computer Architecture` · `Machine Learning`
+
+## 🎯 Philosophy
+
+- Learn by building.
+- Understand before memorizing.
+- Keep projects practical.
+- Progress consistently, not randomly.
 
 ---
+
+<p align="center">
+  <sub>零夜 · A new beginning in the quiet of the night.</sub><br/>
+  <b>aevyen 发展</b>
+</p>
 
 <p align="center">
   🌱 <i>Still building.</i>
