@@ -1,6 +1,6 @@
 html
 <div align="center">
-  <img src="./341666ee-e8ca-4f80-a7de-223342c80d98.png" width="100%" alt="aevyen 零夜 — Cosmic Horizon Banner">
+  <img src="./93cebe28-d399-4c6c-836a-82316d171800 (1).png" width="100%" alt="aevyen 零夜 — Cosmic Horizon Banner">
 </div>
 
 <div align="center">
