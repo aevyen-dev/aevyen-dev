@@ -1,5 +1,6 @@
- <div align="center">
-  <img src="./341666ee-e8ca-4f80-a7de-223342c80d98.png" width="100%" alt="aevyen 零夜 — Retro Future Banner">
+```html
+<div align="center">
+  <img src="./341666ee-e8ca-4f80-a7de-223342c80d98.png" width="100%" alt="aevyen 零夜 — Cosmic Horizon Banner">
 </div>
 
 <div align="center">
@@ -8,54 +9,57 @@
 
 **SOFTWARE ENGINEERING · ALGORITHMS · COMPUTER SCIENCE**
 
-`LEARN` / `BUILD` / `UNDERSTAND` / `EVOLVE`
+`EXPLORE` / `LEARN` / `BUILD` / `EVOLVE`
 
-[ABOUT](#-about-me) · [FOCUS](#-current-focus) · [PROJECTS](#-projects) · [TECH](#-tech-stack)
+[ABOUT](#-about-me) · [MISSION](#-current-mission) · [PROJECTS](#-projects) · [TECH](#-tech-stack)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🌌 About Me
 
-Hey, I'm **Aevyen** — an aspiring software developer focused on understanding technology from the inside out.
+Hey, I'm **Aevyen** — an aspiring software developer exploring the universe of technology, one concept at a time.
 
-I'm building my foundation in programming, algorithms, and computer science. I want to understand not only how to write code, but **why it works and how everything connects**.
+I'm building my foundation in programming, algorithms, and computer science. My goal is to understand not only how code works, but **what lies beneath the surface and how individual systems connect**.
 
-I learn by practicing, experimenting, and building projects of my own.
+Every project is an experiment. Every problem is an unexplored territory. Every new concept brings me one step closer to understanding the bigger picture.
 
-> *Understand the system. Build with purpose. Keep evolving.*
+> *Explore the unknown. Understand the system. Build something meaningful.*
 
-## 🧭 Current Focus
+## 🪐 Current Mission
 
-| Field | Focus |
+| Field | Mission |
 |:--|:--|
-| 💻 **C++** | Programming fundamentals and problem solving |
-| 🌐 **Web Development** | HTML, CSS, JavaScript |
-| 🧠 **Computer Science** | Algorithms and computational thinking |
-| ⚙️ **Computer Systems** | Hardware, architecture, and software fundamentals |
-| 🛠️ **Projects** | Turning concepts into working applications |
+| 🚀 **C++** | Master programming fundamentals and problem solving |
+| 🌐 **Web Development** | Explore HTML, CSS, and JavaScript |
+| 🧠 **Computer Science** | Study algorithms and computational thinking |
+| 🛰️ **Computer Systems** | Explore hardware, architecture, and low-level concepts |
+| 🔭 **Projects** | Turn ideas into real, working applications |
 
-## 🚀 Projects
+## 🛸 Projects
 
 ### ◈ Algorithm Lab
 
-An interactive web project exploring algorithms through visual explanations and practical experimentation.
+An interactive project dedicated to exploring algorithms through visualization and experimentation.
 
-**Goal:** make abstract concepts easier to understand by turning them into something you can see and interact with.
+The mission is to transform abstract concepts into understandable systems — making algorithms visible, tangible, and easier to explore.
 
-`HTML` `CSS` `JavaScript` `Algorithms`
+**Technologies:**
+
+`C++` `Qt` `Algorithms` `Computer Science`
 
 <sub>STATUS: IN DEVELOPMENT</sub>
 
-More projects will appear here as I continue learning and building.
+More projects will emerge as the journey continues.
 
 ## 🧰 Tech Stack
 
-**Currently Learning**
+**Currently Exploring**
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=8B35FF" alt="C++">
+  <img src="https://img.shields.io/badge/Qt-111111?style=flat-square&logo=qt&logoColor=41CD52" alt="Qt">
   <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=FF7A45" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=8B35FF" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=FF3FA4" alt="JavaScript">
@@ -63,27 +67,29 @@ More projects will appear here as I continue learning and building.
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
 </p>
 
-**Exploring**
+**On the Horizon**
 
-`Algorithms` · `Computer Architecture` · `Machine Learning`
+`Algorithms` · `Computer Architecture` · `Mathematics` · `Machine Learning`
 
-## 🎯 Principles
+## 🧭 Navigation Principles
 
-- **Understand, don't just memorize.**
-- **Build to learn.** Turn theory into practice.
-- **Master the fundamentals** before chasing complexity.
-- **Stay consistent.** Small improvements compound over time.
+- **Curiosity over comfort.** Explore beyond what is already known.
+- **Understanding over memorization.** Learn why things work.
+- **Practice over theory alone.** Turn knowledge into working systems.
+- **Fundamentals before complexity.** Build a solid foundation.
+- **Consistency over intensity.** Progress is a long-term mission.
 
 ---
 
 <div align="center">
 
-  <sub>零夜 · A NEW BEGINNING IN THE QUIET OF THE NIGHT.</sub>
+<sub>零夜 · ZERO NIGHT · A QUIET BEGINNING IN AN INFINITE UNIVERSE.</sub>
 
-  <br>
+<br>
 
-  **aevyen 发展**
+**aevyen 发展**
 
-  <sub>LEARN IN SILENCE. BUILD WITH PURPOSE.</sub>
+<sub>LOOK BEYOND. THINK DEEPER. BUILD YOUR OWN UNIVERSE.</sub>
 
 </div>
+```
