@@ -1,4 +1,4 @@
-```html
+html
 <div align="center">
   <img src="./341666ee-e8ca-4f80-a7de-223342c80d98.png" width="100%" alt="aevyen 零夜 — Cosmic Horizon Banner">
 </div>
@@ -92,4 +92,3 @@ More projects will emerge as the journey continues.
 <sub>LOOK BEYOND. THINK DEEPER. BUILD YOUR OWN UNIVERSE.</sub>
 
 </div>
-```
